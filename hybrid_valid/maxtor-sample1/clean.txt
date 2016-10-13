@@ -1,0 +1,16 @@
+3b-test7.outv:ssd  #0 elem #0   Number of cleans:	6162
+fox-3blk-t1test01-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	0
+fox-3blk-t1test02-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	0
+fox-3blk-t1test03-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	51901
+fox-3blk-t1test04-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	37778
+fox-3blk-t1test05-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	187358
+fox-3blk-t1test06-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	0
+fox-3blk-t1test07-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	0
+fox-3blk-t1test10-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	26910
+fox-3blk-t1test11-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	0
+fox-3blk-t1test12-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	37778
+fox-3blk-t1test13-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	14272
+fox-3blk-t1test14-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	0
+test7.outv:ssd  #0 elem #0   Number of cleans:	3212
+testn.outv:ssd  #0 elem #0   Number of cleans:	14392
+test.outv:ssd  #0 elem #0   Number of cleans:	15046

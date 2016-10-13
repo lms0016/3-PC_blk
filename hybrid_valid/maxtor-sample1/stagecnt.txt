@@ -1,0 +1,16 @@
+fox-3blk-t1test01-opt-4G-IO1-a05.outv: LRU Stage Count = 2701
+fox-3blk-t1test02-opt-4G-IO1-a05.outv: LRU Stage Count = 2701
+fox-3blk-t1test03-opt-4G-IO1-a05.outv: LRU Stage Count = 3166273
+fox-3blk-t1test04-opt-4G-IO1-a05.outv: LRU Stage Count = 1562165
+fox-3blk-t1test05-opt-4G-IO1-a05.outv: LRU Stage Count = 11854965
+fox-3blk-t1test06-opt-4G-IO1-a05.outv: LRU Stage Count = 8640
+fox-3blk-t1test07-opt-4G-IO1-a05.outv: LRU Stage Count = 8021234
+fox-3blk-t1test09-opt-4G-IO1-a05.outv: LRU Stage Count = 0
+fox-3blk-t1test10-opt-4G-IO1-a05.outv: LRU Stage Count = 475402
+fox-3blk-t1test11-opt-4G-IO1-a05.outv: LRU Stage Count = 10215
+fox-3blk-t1test12-opt-4G-IO1-a05.outv: LRU Stage Count = 1562165
+fox-3blk-t1test13-opt-4G-IO1-a05.outv: LRU Stage Count = 399171
+fox-3blk-t1test14-opt-4G-IO1-a05.outv: LRU Stage Count = 32344
+test7.outv: LRU Stage Count = 357507
+testn.outv: LRU Stage Count = 675153
+test.outv: LRU Stage Count = 416139

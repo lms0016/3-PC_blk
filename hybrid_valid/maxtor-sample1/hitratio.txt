@@ -1,0 +1,17 @@
+3b-test7.outv: LRU hit ratio = 0.111330
+fox-3blk-t1test01-opt-4G-IO1-a05.outv: LRU hit ratio = 0.000332
+fox-3blk-t1test02-opt-4G-IO1-a05.outv: LRU hit ratio = 0.000332
+fox-3blk-t1test03-opt-4G-IO1-a05.outv: LRU hit ratio = 0.620105
+fox-3blk-t1test04-opt-4G-IO1-a05.outv: LRU hit ratio = 0.277190
+fox-3blk-t1test05-opt-4G-IO1-a05.outv: LRU hit ratio = 0.494768
+fox-3blk-t1test06-opt-4G-IO1-a05.outv: LRU hit ratio = 0.002748
+fox-3blk-t1test07-opt-4G-IO1-a05.outv: LRU hit ratio = 0.002293
+fox-3blk-t1test09-opt-4G-IO1-a05.outv: LRU hit ratio = 0.000000
+fox-3blk-t1test10-opt-4G-IO1-a05.outv: LRU hit ratio = 0.857337
+fox-3blk-t1test11-opt-4G-IO1-a05.outv: LRU hit ratio = 0.997746
+fox-3blk-t1test12-opt-4G-IO1-a05.outv: LRU hit ratio = 0.277190
+fox-3blk-t1test13-opt-4G-IO1-a05.outv: LRU hit ratio = 0.166193
+fox-3blk-t1test14-opt-4G-IO1-a05.outv: LRU hit ratio = 0.985046
+test7.outv: LRU hit ratio = 0.612587
+testn.outv: LRU hit ratio = 0.812472
+test.outv: LRU hit ratio = 0.531745
